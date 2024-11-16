@@ -52,7 +52,7 @@
               "RelativeDocumentMoniker": "Snake\\Snake.h",
               "ToolTip": "D:\\Snake\\snake\\Snake\\Snake.h",
               "RelativeToolTip": "Snake\\Snake.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-11-12T13:24:21.819Z",
               "EditorCaption": ""
@@ -103,8 +103,7 @@
               "RelativeToolTip": "Snake\\Game.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-12T13:16:31.064Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T13:16:31.064Z"
             },
             {
               "$type": "Document",
@@ -116,8 +115,7 @@
               "RelativeToolTip": "Snake\\main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-12T13:16:30.495Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T13:16:30.495Z"
             },
             {
               "$type": "Document",
