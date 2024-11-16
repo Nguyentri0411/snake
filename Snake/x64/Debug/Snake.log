@@ -3,4 +3,5 @@
   main.cpp
   Snake.cpp
   Generating Code...
-  Snake.vcxproj -> D:\Study\Kỹ năng nghề nghiệp\snake\x64\Debug\Snake.exe
+  LINK : D:\Snake\snake\x64\Debug\Snake.exe not found or not built by the last incremental link; performing full link
+  Snake.vcxproj -> D:\Snake\snake\x64\Debug\Snake.exe
