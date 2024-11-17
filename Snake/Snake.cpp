@@ -35,3 +35,20 @@ void Snake::Move()
 	default: break;
 	}
 }
+
+bool Snake::CheckCollision(int width, int height)
+{
+	if (x < 0 || x >= width || y < 0 || y >= height)
+		return true;
+
+	for (int i = 0; i < nTail; i++)
+		if (tailX[i] == x && tailY[i] == y)
+			return true;
+
+	return false;
+}
+
+void Snake::Grow()
+{
+	nTail++;
+}
