@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{BE7A48E9-E341-4034-848D-C023851AD89F}|Snake\\Snake.vcxproj|solutionrelative:Snake\\Snake.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE7A48E9-E341-4034-848D-C023851AD89F}|Snake\\Snake.vcxproj|D:\\Snake\\snake\\Snake\\Snake.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BE7A48E9-E341-4034-848D-C023851AD89F}|Snake\\Snake.vcxproj|solutionrelative:Snake\\Snake.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BE7A48E9-E341-4034-848D-C023851AD89F}|Snake\\Snake.vcxproj|D:\\Snake\\snake\\Snake\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BE7A48E9-E341-4034-848D-C023851AD89F}|Snake\\Snake.vcxproj|solutionrelative:Snake\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE7A48E9-E341-4034-848D-C023851AD89F}|Snake\\Snake.vcxproj|D:\\Snake\\snake\\Snake\\Snake.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BE7A48E9-E341-4034-848D-C023851AD89F}|Snake\\Snake.vcxproj|solutionrelative:Snake\\Snake.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE7A48E9-E341-4034-848D-C023851AD89F}|Snake\\Snake.vcxproj|D:\\Snake\\snake\\Snake\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -46,7 +46,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Snake.h",
               "DocumentMoniker": "D:\\Snake\\snake\\Snake\\Snake.h",
               "RelativeDocumentMoniker": "Snake\\Snake.h",
@@ -54,8 +54,7 @@
               "RelativeToolTip": "Snake\\Snake.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-12T13:24:21.819Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T13:24:21.819Z"
             },
             {
               "$type": "Document",
@@ -107,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "main.cpp",
               "DocumentMoniker": "D:\\Snake\\snake\\Snake\\main.cpp",
               "RelativeDocumentMoniker": "Snake\\main.cpp",
@@ -115,7 +114,8 @@
               "RelativeToolTip": "Snake\\main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-12T13:16:30.495Z"
+              "WhenOpened": "2024-11-12T13:16:30.495Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -125,7 +125,7 @@
               "RelativeDocumentMoniker": "Snake\\Snake.cpp",
               "ToolTip": "D:\\Snake\\snake\\Snake\\Snake.cpp",
               "RelativeToolTip": "Snake\\Snake.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-12T13:16:28.969Z",
               "EditorCaption": ""
