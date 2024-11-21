@@ -1,8 +1,11 @@
-#include "Fruit.h"
-#include <cstdlib>
+#ifndef FRUIT_H
+#define FRUIT_H
 
-void Fruit::Generate(int width, int height)
+class Fruit
 {
-    x = rand() % width;
-    y = rand() % height;
-}
+public:
+    int x, y;
+    void Generate(int width, int height);
+};
+
+#endif // FRUIT_H
