@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "D:\\Study\\K\u1EF9 n\u0103ng ngh\u1EC1 nghi\u1EC7p\\snake\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BE7A48E9-E341-4034-848D-C023851AD89F}|Snake\\Snake.vcxproj|D:\\Study\\K\u1EF9 n\u0103ng ngh\u1EC1 nghi\u1EC7p\\snake\\Snake\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BE7A48E9-E341-4034-848D-C023851AD89F}|Snake\\Snake.vcxproj|solutionrelative:Snake\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE7A48E9-E341-4034-848D-C023851AD89F}|Snake\\Snake.vcxproj|D:\\Study\\K\u1EF9 n\u0103ng ngh\u1EC1 nghi\u1EC7p\\snake\\Snake\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BE7A48E9-E341-4034-848D-C023851AD89F}|Snake\\Snake.vcxproj|solutionrelative:Snake\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BE7A48E9-E341-4034-848D-C023851AD89F}|Snake\\Snake.vcxproj|D:\\Study\\K\u1EF9 n\u0103ng ngh\u1EC1 nghi\u1EC7p\\snake\\Snake\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BE7A48E9-E341-4034-848D-C023851AD89F}|Snake\\Snake.vcxproj|solutionrelative:Snake\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE7A48E9-E341-4034-848D-C023851AD89F}|Snake\\Snake.vcxproj|D:\\Study\\K\u1EF9 n\u0103ng ngh\u1EC1 nghi\u1EC7p\\snake\\Snake\\Snake.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BE7A48E9-E341-4034-848D-C023851AD89F}|Snake\\Snake.vcxproj|solutionrelative:Snake\\Snake.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE7A48E9-E341-4034-848D-C023851AD89F}|Snake\\Snake.vcxproj|D:\\Study\\K\u1EF9 n\u0103ng ngh\u1EC1 nghi\u1EC7p\\snake\\Snake\\Fruit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -15,20 +27,8 @@
       "RelativeMoniker": "D:0:0:{BE7A48E9-E341-4034-848D-C023851AD89F}|Snake\\Snake.vcxproj|solutionrelative:Snake\\Fruit.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE7A48E9-E341-4034-848D-C023851AD89F}|Snake\\Snake.vcxproj|D:\\Study\\K\u1EF9 n\u0103ng ngh\u1EC1 nghi\u1EC7p\\snake\\Snake\\Snake.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BE7A48E9-E341-4034-848D-C023851AD89F}|Snake\\Snake.vcxproj|solutionrelative:Snake\\Snake.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BE7A48E9-E341-4034-848D-C023851AD89F}|Snake\\Snake.vcxproj|D:\\Study\\K\u1EF9 n\u0103ng ngh\u1EC1 nghi\u1EC7p\\snake\\Snake\\Snake.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BE7A48E9-E341-4034-848D-C023851AD89F}|Snake\\Snake.vcxproj|solutionrelative:Snake\\Snake.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE7A48E9-E341-4034-848D-C023851AD89F}|Snake\\Snake.vcxproj|D:\\Study\\K\u1EF9 n\u0103ng ngh\u1EC1 nghi\u1EC7p\\snake\\Snake\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BE7A48E9-E341-4034-848D-C023851AD89F}|Snake\\Snake.vcxproj|solutionrelative:Snake\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE7A48E9-E341-4034-848D-C023851AD89F}|Snake\\Snake.vcxproj|D:\\Study\\K\u1EF9 n\u0103ng ngh\u1EC1 nghi\u1EC7p\\snake\\Snake\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BE7A48E9-E341-4034-848D-C023851AD89F}|Snake\\Snake.vcxproj|solutionrelative:Snake\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,8 +38,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Game.h",
+              "DocumentMoniker": "D:\\Study\\K\u1EF9 n\u0103ng ngh\u1EC1 nghi\u1EC7p\\snake\\Snake\\Game.h",
+              "RelativeDocumentMoniker": "Snake\\Game.h",
+              "ToolTip": "D:\\Study\\K\u1EF9 n\u0103ng ngh\u1EC1 nghi\u1EC7p\\snake\\Snake\\Game.h",
+              "RelativeToolTip": "Snake\\Game.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-21T15:33:38.97Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -55,20 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Game.h",
-              "DocumentMoniker": "D:\\Study\\K\u1EF9 n\u0103ng ngh\u1EC1 nghi\u1EC7p\\snake\\Snake\\Game.h",
-              "RelativeDocumentMoniker": "Snake\\Game.h",
-              "ToolTip": "D:\\Study\\K\u1EF9 n\u0103ng ngh\u1EC1 nghi\u1EC7p\\snake\\Snake\\Game.h",
-              "RelativeToolTip": "Snake\\Game.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-19T19:07:25.268Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Fruit.h",
               "DocumentMoniker": "D:\\Study\\K\u1EF9 n\u0103ng ngh\u1EC1 nghi\u1EC7p\\snake\\Snake\\Fruit.h",
               "RelativeDocumentMoniker": "Snake\\Fruit.h",
@@ -76,12 +76,11 @@
               "RelativeToolTip": "Snake\\Fruit.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-19T19:07:25.269Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T19:07:25.269Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Fruit.cpp",
               "DocumentMoniker": "D:\\Study\\K\u1EF9 n\u0103ng ngh\u1EC1 nghi\u1EC7p\\snake\\Snake\\Fruit.cpp",
               "RelativeDocumentMoniker": "Snake\\Fruit.cpp",
@@ -89,36 +88,37 @@
               "RelativeToolTip": "Snake\\Fruit.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-19T19:07:25.27Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T19:07:25.27Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Game.cpp",
               "DocumentMoniker": "D:\\Study\\K\u1EF9 n\u0103ng ngh\u1EC1 nghi\u1EC7p\\snake\\Snake\\Game.cpp",
               "RelativeDocumentMoniker": "Snake\\Game.cpp",
               "ToolTip": "D:\\Study\\K\u1EF9 n\u0103ng ngh\u1EC1 nghi\u1EC7p\\snake\\Snake\\Game.cpp",
               "RelativeToolTip": "Snake\\Game.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAYwGIAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-19T19:07:25.271Z"
+              "WhenOpened": "2024-11-19T19:07:25.271Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "main.cpp",
               "DocumentMoniker": "D:\\Study\\K\u1EF9 n\u0103ng ngh\u1EC1 nghi\u1EC7p\\snake\\Snake\\main.cpp",
               "RelativeDocumentMoniker": "Snake\\main.cpp",
               "ToolTip": "D:\\Study\\K\u1EF9 n\u0103ng ngh\u1EC1 nghi\u1EC7p\\snake\\Snake\\main.cpp",
               "RelativeToolTip": "Snake\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFMAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-19T19:07:25.272Z"
+              "WhenOpened": "2024-11-19T19:07:25.272Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Snake.cpp",
               "DocumentMoniker": "D:\\Study\\K\u1EF9 n\u0103ng ngh\u1EC1 nghi\u1EC7p\\snake\\Snake\\Snake.cpp",
               "RelativeDocumentMoniker": "Snake\\Snake.cpp",
@@ -126,8 +126,7 @@
               "RelativeToolTip": "Snake\\Snake.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-19T19:07:25.32Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T19:07:25.32Z"
             }
           ]
         }
